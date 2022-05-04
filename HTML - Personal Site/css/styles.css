@@ -1,0 +1,40 @@
+
+  body {
+    background-color: maroon;
+    text-align: center;
+    
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: yellow;
+    height: 0;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  img:hover{
+    background-color: gold;
+    border-radius: 100%;
+  }
+
+  h1 {
+    color: pink;
+  }
+
+  h3 {
+    color: cyan;
+  }
+
+/*class*/
+  .fireflower {
+    background-color: red;
+    border-radius: 100%;
+    width: 35%;
+  }
+
+  /*id*/
+  #heading {
+    color: blue;
+  }
